@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #273b47;
+  color: #7dcd40;
+  font-family: Lato, arial;
+}
+section {
+  margin-top: 40vh;
+  text-align: center;
+}
+section h2 a {
+  color: #55acee;
+  text-decoration: none;
+}
+section article {
+  background: #fff;
+  margin: 10px 0;
+  padding: 20px;
+}
+section article img {
+  max-width: 250px;
+}
