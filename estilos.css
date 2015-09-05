@@ -11,7 +11,8 @@ section {
   margin-top: 40vh;
   text-align: center;
 }
-section h2 a {
+section h2,
+section a {
   color: #55acee;
   text-decoration: none;
 }
