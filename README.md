@@ -1,2 +1,3 @@
-# seguno-repo
-Esto es un seundo repositorio de prueba.
+# GitHub | Prueba
+Primer repositorio de GitHub.
+Sigueme en Twitter como [@AndresDguez](http://twitter.com/AndresDguez)
